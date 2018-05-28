@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.riaspace.com/air/framework/update/description/1.1">
+  <dmg>
+    <versionNumber>001.030.003</versionNumber>
+    <versionLabel>1.0.3.3 Beta</versionLabel>
+    <url>https://files.mcleodgaming.com/ssf2/downloads/4dac3775/SSF2BetaSetupMac.v1.0.3.2.air</url>
+   <description><![CDATA[
+SSF2 Delta Early Access 1:
+--------------------
+* Almost every character in the cast completely rebalanced!
+* New engine, featuring a private online lobby, v0.9b SDI and much more!
+* Increased number of tourney-legal stages, including Fourside, Casino Night, and more!
+* Special Online Waiting Room!
+* And even more!
+]]></description>
+  </dmg>
+  <exe>
+    <versionNumber>001.030.003</versionNumber>
+    <versionLabel>1.0.3.3 Beta</versionLabel>
+    <url>https://github.com/Stariwinkle/delta/releases/download/0.6/DeltaEarlyAccessInstaller.exe</url>
+   <description><![CDATA[
+SSF2 Delta Early Access 1:
+--------------------
+* Almost every character in the cast completely rebalanced!
+* New engine, featuring a private online lobby, v0.9b SDI and much more!
+* Increased number of tourney-legal stages, including Fourside, Casino Night, and more!
+* Special Online Waiting Room!
+* And even more!
+]]></description>
+  </exe>
+</update>
