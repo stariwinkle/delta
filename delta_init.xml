@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.riaspace.com/air/framework/update/description/1.1">
   <dmg>
-    <versionNumber>001.030.004</versionNumber>
-    <versionLabel>1.0.3.4 Beta</versionLabel>
+    <versionNumber>001.030.002</versionNumber>
+    <versionLabel>1.0.3.2 Beta</versionLabel>
     <url>https://files.mcleodgaming.com/ssf2/downloads/4dac3775/SSF2BetaSetupMac.v1.0.3.2.air</url>
    <description><![CDATA[
+SSF2 Delta Early Access 2:
+--------------------
+*Mega Man is ready to test!
+*Various balancing changes and bugfixes, see installer changelog
+--------------------
+
 SSF2 Delta Early Access 1:
 --------------------
 * Almost every character in the cast completely rebalanced!
@@ -15,13 +21,24 @@ SSF2 Delta Early Access 1:
 ]]></description>
   </dmg>
   <exe>
-    <versionNumber>001.030.004</versionNumber>
-    <versionLabel>1.0.3.4 Beta</versionLabel>
+    <versionNumber>001.030.005</versionNumber>
+    <versionLabel>1.0.3.5 Beta</versionLabel>
     <url>https://github.com/Stariwinkle/delta/releases/download/0.6/DeltaEarlyAccessInstaller.exe</url>
    <description><![CDATA[
+SSF2 Delta Early Access 3:
+--------------------
+*Goku is now ready to test! Big moveset changes such as Down and Side Special.
+*Online Mode improvements! Randomized join messages, randomized waiting room stages, and randomized waiting room opponents!
+*Stage updates: Waiting Room (it's closer to the sun) and Sky Sanctuary (disappearing platforms!)
+*Various balancing changes and bugfixes (again), will be posted in the tester discord before nightfall
+SSF2 Delta Early Access 2:
+--------------------
+*Mega Man is ready to test!
+*Various balancing changes and bugfixes, see installer changelog
+--------------------
+
 SSF2 Delta Early Access 1:
 --------------------
-* Cosalina, let me know if you can see this!
 * Almost every character in the cast completely rebalanced!
 * New engine, featuring a private online lobby, v0.9b SDI and much more!
 * Increased number of tourney-legal stages, including Fourside, Casino Night, and more!
