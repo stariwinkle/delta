@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <files>
 <dat>
-<path>data/DAT0.ssf</path>
-<version>1</version>
-<url>https://github.com/stariwinkle/delta/raw/master/data/DAT0.ssf</url>
-</dat>
-<dat>
-<path>data/DAT2.ssf</path>
-<version>1</version>
-<url>https://github.com/stariwinkle/delta/raw/master/data/DAT2.ssf</url>
-</dat>
-<dat>
-<path>data/DAT3.ssf</path>
-<version>1</version>
-<url>https://github.com/stariwinkle/delta/raw/master/data/DAT3.ssf</url>
+<path>changelog.txt</path>
+<version>0</version>
+<url>https://raw.githubusercontent.com/stariwinkle/delta/master/changelog.txt</url>
 </dat>
 </files>
