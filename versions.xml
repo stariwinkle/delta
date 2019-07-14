@@ -5,4 +5,9 @@
 <version>0</version>
 <url>https://raw.githubusercontent.com/stariwinkle/delta/master/changelog.txt</url>
 </dat>
+<dat>
+<path>data/DAT253.ssf</path>
+<version>0</version>
+<url>https://github.com/stariwinkle/delta/raw/master/data/DAT253.ssf</url>
+</dat>
 </files>
