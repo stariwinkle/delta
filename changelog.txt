@@ -23,6 +23,8 @@ Engine: (HFF, David, Monte)
 + SDI is better now
 + 9b Dashcancelling is back
 - Getting hit with a meteor while grounded now deals only an additional 5% of hitstun rather than 20%
+7/14/2019
++ Command grabs now beat attacks... except for Sandbag and Sora's sspec. Working on that.
 
 Replays: (David)
 + Default replay names are more intuitive
