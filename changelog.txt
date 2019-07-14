@@ -27,7 +27,7 @@ Engine: (HFF, David, Monte)
 Replays: (David)
 + Default replay names are more intuitive
 
-Menus: (David)
+Menus: (Matz)
 + Menus are better
 + Misc CSS changes
 + v0.8 and v0.9 intros work again
@@ -706,7 +706,7 @@ Zero Suit Samus: (27)
 
 STAGES:
 
-Emerald Cave: (David)
+Emerald Cave: (MatZ, David)
 ? David changed it somehow
 + Emerald Cave has a higher ceiling.
 
