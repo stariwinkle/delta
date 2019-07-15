@@ -1,2 +1,2 @@
 # SSF2 Delta Repository
-This is pretty much where I'll be hosting the updater and installer files for the game. Not much else to see here unless I change my mind about its usage.
+Hi there! This is where the files for updating the game are hosted. There's not much point to downloading stuff from here, since they're just the public update files. No spoilers here! :P
