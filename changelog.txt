@@ -22,17 +22,18 @@ Engine: (HFF, David, Monte)
 + Attacks now beat grabs
 + SDI is better now
 + 9b Dashcancelling is back
++ You can crouch during your initial dash
 - Getting hit with a meteor while grounded now deals only an additional 5% of hitstun rather than 20%
 7/14/2019
 + Command grabs now beat attacks... except for Sandbag and Sora's sspec. Working on that.
 
-Replays: (David)
+Misc: (David)
++ v0.8 and v0.9 intros work again
 + Default replay names are more intuitive
 
 Menus: (Matz)
-+ Menus are better
++ Menus overhauled
 + Misc CSS changes
-+ v0.8 and v0.9 intros work again
 
 
 CHARACTERS:
