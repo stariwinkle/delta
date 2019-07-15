@@ -278,6 +278,9 @@ Goku: (MedK, David)
   + Aerial first hit kBG now matches grounded's (70 > 90).
 = Minor tweaks to D-Throw.
 + Minor bugfixes applied to Side-B. Iirc that's the only thing I did.
+7/15/2019
+= SIDE-B'S SPRITES FINALLY MATCH EVERYTHING ELSE
+= D-Taunt finally has an effect on it.
 
 Kirby: (MedK, HFF)
 = N. Yoshi copy ability is now actually N. Yoshi's ability.
@@ -704,6 +707,23 @@ Zero Suit Samus: (27)
 - Upsmash slightly worse at killing at the cost of looking better.
 + Paralyzer no longer always goes into the start of the charging animation when going from ground to air.
 = Secret Paralyzer stuff too
+
+Luffy: (MedK)
+7/15/2019
+- Shorthop reverted to vanilla (8.3 > 8.5).
++ Secret tech that MedK wants you to find out for yourself
++ U-Tilt hitbox on first active frame drastically increased to hit small opponents.
++ DA now absorbs projectiles.
++ All smash attacks are slightly stronger.
++ F-Air is *much* stronger, and it no longer has a sour spot.
++ NEW NEUTRAL-B!!!
++ Side-B is three frames faster.
+= CPUs now know how to use forward and down specials.
++ Up-B is two frames faster. It also won't reduce your X Speed.
+- However, its boost is much closer to vanilla due to the below change.
++ Down-B was overhauled, it now has three working boosts (all of them better than the old boosts), but the last one makes Luffy helpless. The uses also reset if you get hit, grabbed or KO'd.
++ The first boost can be shortened by pressing downwards, and all other boosts can be acted out of sooner.
++ F-Throw kills sooner. D-Throw also kills, but it still acts the same when the opponent's damage is low :eyes:
 
 
 STAGES:
