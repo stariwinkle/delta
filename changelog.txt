@@ -149,6 +149,8 @@ Samus: (Strife, David)
 - Weak Zair is much weaker.
 - Strong Zair is a little bit less obnoxious
 - Up Throw no longer kills ridiculously early.
+7/18/2019
+- Removed CSG
 
 PAC-MAN: (MedK, David, Strife)
 - Trampoline is fixed.
@@ -398,7 +400,7 @@ Mario: (David)
 + shorter heavyland animation
 + less endlag on fsmash, usmash, and dtilt
 
-Wario: (Strife)
+Wario: (Strife, HFF)
 + Wario's air stats are more reminiscent of the main series games
 + Wario's Up Smash links together much better.
 + Wario's Dash Attack can now cancel into his Up Smash, it doesn't go far, but it's designed to increase Dash Attack's reward.
@@ -408,8 +410,10 @@ Wario: (Strife)
 - Max Bite count decreased: 10 -> 5
 - Throw damage nerfed: 6 -> 4
 - Chomp has three frames of cooldown after a successful grab and throw. This is to remove the chain chomp death combos that he had on some characters.
+7/18/2019
++ Fixed sloppy programming that broke DACUS
 
-Pit: (Strife)
+Pit: (Strife, HFF)
 + Down Tilt and Dash Attack have less scaling.
 + Forward Air now does 10% and is a single hit move. It's a pretty good combo tool that scales well into being a good edgeguard move.
 + Up Air now does 8% and is a single hit move. It's a good juggling tool.
@@ -439,6 +443,8 @@ Pit: (Strife)
 + Air speed, acceleration, initial dash, deceleration are all reverted back to their pre-patch incarnations
 + FSmash, sweet Back Air and Up Air are much stronger.
 + Power of Flight goes further.
+7/18/2019
+= Fixed internal bug with feather effect.
 
 Mr. Game and Watch: (MedK, David)
 + DA behaves like vanilla, but keeps DACUS. DACUS also behaves like Brawl Falco's aka actual sliding DACUS.
@@ -590,6 +596,8 @@ Bowser: (Strife, 27, David)
 + dthrow has 2f endlag shaved off
 + dtilt better for combos please DI
 + Fixed all bugs
+7/18/2019
++ Is playable again
 
 Chibi-Robo: (Strife, MedK)
 + FTilt has a bit more hitlag and hitstun. *Should* be better on shield
@@ -634,7 +642,7 @@ Zelda: (Strife)
 - Farore's has less KB scaling.
 - Transform now has 15 frames of cooldown.
 
-Sheik: (Strife, David)
+Sheik: (Strife, David, HFF)
 - Fair and Uair KBG lowered by 10.
 - Bouncing Fish KBG: 100 -> 80
 - Dair: Angle is now 270, KBG 75 -> 45. Dair has a niche gimping use.
@@ -653,6 +661,8 @@ Sheik: (Strife, David)
 + Back Air damage has been reverted, meaning it deals 12% instead of 10%.
 - Individual needle damage has been slightly reduced.
 - Soft Neutral Air is stronger, but hard Neutral Air is weaker. (NOT relative to each other. Relative to how they were before.)
+7/18/2019
++ Fixed sloppy programming that broke DACUS
 
 Mega Man: (Strife, MedK)
 - Nair no longer has an autocancel window.
