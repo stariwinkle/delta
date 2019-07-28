@@ -30,6 +30,8 @@ Engine: (HFF, David, Monte)
 Misc: (David)
 + v0.8 and v0.9 intros work again
 + Default replay names are more intuitive
+7/28/2019
++ Various bugfixes and optimizations
 
 Menus: (Matz)
 + Menus overhauled
